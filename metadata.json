@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Quiz Master",
+  "description": "An intelligent quiz application that generates custom trivia questions on any topic using Google Gemini.",
+  "requestFramePermissions": []
+}
